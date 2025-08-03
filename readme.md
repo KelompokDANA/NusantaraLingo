@@ -37,5 +37,5 @@ Ikuti langkah-langkah di bawah ini untuk menginstal dan menjalankan NusantaraLin
 Buka terminal atau command prompt Anda dan jalankan perintah berikut:
 
 ```bash
-git clone <URL_REPOSITORI_ANDA>
+git clone https://github.com/KelompokDANA/NusantaraLingo
 cd NusantaraLingo
